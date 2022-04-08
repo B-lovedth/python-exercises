@@ -52,3 +52,5 @@ turtle.begin_fill()
 turtle.setheading(22.5)
 turtle.circle(60,steps=(8))
 turtle.end_fill()
+
+turtle.done()

@@ -17,7 +17,7 @@ import turtle
 
 
 # turtle.done()
-turtle.right(4224898287890231310)789042318904231
+# turtle.right()
 turtle.circle(175,steps=(6))
 turtle.circle(175)
 turtle.done()
